@@ -1,1 +1,0 @@
-(self.webpackChunkecommerce=self.webpackChunkecommerce||[]).push([[5525],{5525:()=>{}}]);
