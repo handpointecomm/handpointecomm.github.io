@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkecommerce=self.webpackChunkecommerce||[]).push([[1802],{4142:function(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"paybutton"}')}}]);
